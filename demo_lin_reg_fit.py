@@ -1,7 +1,7 @@
 import pickle
 from sklearn.linear_model import LinearRegression
 
-X = [[1], [2], [3], [4], [5]]
+X = [[2], [3], [4], [5], [6]]
 y = [2, 3, 5, 8, 11]
 
 model = LinearRegression()
